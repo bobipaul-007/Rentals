@@ -1,0 +1,45 @@
+{ 
+  "responseMessage": "success",
+  "responseCode" :"0",
+  " localTimeZone" : "America/Los_Angeles",
+  "storeOpenHours" : [
+  {
+
+"Monday": 
+  {
+"open": "08:00 AM",
+"close":"08:00PM"
+},
+"Tuesday": 
+  {
+"open": "08:00 AM",
+"close": "08:00 PM"
+},
+"Wednesday": 
+  {
+"open": "08:00 AM",
+"close": "09:00 PM"
+},
+"Thursday": 
+  {
+"open": "08:00 AM",
+"close": "09:00 PM"
+},
+"Friday": 
+  {
+"open": "09:00 AM",
+"close": "09:00 PM"
+},
+"Saturday": 
+  {
+"open": "09:00 AM",
+"close": "09:00 PM"
+},
+"Sunday": 
+  {
+"open": "09:00 AM",
+"close": "09:00 PM"
+  }
+  }
+ ]
+}  

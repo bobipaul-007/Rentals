@@ -1,0 +1,20 @@
+{
+    "itemTypes": [
+        {
+            "itemId": "2001",
+            "itemName": "6 X 10 Aluminium Trailer",
+            "itemDesc": "6 X 10 Aluminium Trailer Desc",
+            "itemAggreement": "fweuroweqruewurwqirwei",
+            "itemTypeStatus": "A"
+        },
+        {
+            "itemId": "2001",
+            "itemName": "6 X 12 Aluminium Trailer",
+            "itemDesc": "6X12AluminiumTrailerDesc",
+            "itemAggreement": "fweuroweqruewurwqirwei",
+            "itemTypeStatus": "A"
+        }
+    ]
+}
+
+    

@@ -1,0 +1,68 @@
+{
+	"responseMessage": "success",
+	"responseCode": "0",
+	"itemId": "2001",
+	"category": [
+		{
+			"questions": [
+				{
+					"questionId": 4001,
+					"itemId": "2001",
+					"category": "PARTS",
+					"rentalType": "RENTAL",
+					"question": "all parts are satisfactory?",
+					"answerType1": "Yes",
+					"answerType2": "No",
+					"commentsRequiredAT1": "N",
+					"commentsRequiredAT2": "Y",
+					"tooltipRequiredAT1": "N",
+					"tooltipRequiredAT2": "Y",
+					"tooltipAT1": "Test_4001_1",
+					"tooltipAT2": "Test_4001_2",
+					"emailRequiredAT1": "N",
+					"emailRequiredAT2": "Y"
+				},
+				{
+					"questionId": 4002,
+					"itemId": "2001",
+					"category": "PARTS",
+					"rentalType": "RENTAL",
+					"question": "how many parts?",
+					"answerType1": "5",
+					"answerType2": "7",
+					"commentsRequiredAT1": "Y",
+					"commentsRequiredAT2": "N",
+					"tooltipRequiredAT1": "Y",
+					"tooltipRequiredAT2": "N",
+					"tooltipAT1": "Test_4002_1",
+					"tooltipAT2": "Test_4002_2",
+					"emailRequiredAT1": "N",
+					"emailRequiredAT2": "Y"
+				}
+			],
+			"categoryName": "PARTS"
+		},
+		{
+			"questions": [
+				{
+					"questionId": 4003,
+					"itemId": "2001",
+					"category": "DOCS",
+					"rentalType": "RENTAL",
+					"question": "all paper ok?",
+					"answerType1": "Yes",
+					"answerType2": "No",
+					"commentsRequiredAT1": "N",
+					"commentsRequiredAT2": "Y",
+					"tooltipRequiredAT1": "N",
+					"tooltipRequiredAT2": "Y",
+					"tooltipAT1": "Test_4003_1",
+					"tooltipAT2": null,
+					"emailRequiredAT1": "N",
+					"emailRequiredAT2": "Y"
+				}
+			],
+			"categoryName": "DOCS"
+		}
+	]
+}

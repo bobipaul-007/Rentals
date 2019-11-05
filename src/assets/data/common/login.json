@@ -1,0 +1,28 @@
+{
+    "response": {
+        "datetime": 20190328034119,
+        "operatorid": 1,
+        "ftpuserid": "anonymous",
+        "storetype": "PTS",
+        "name": "System USER",
+        "store": 515,
+        "ftppassword": "ftpsecure1",
+        "retcode": 0,
+        "applications": "ABCDEFIJKLLMM"
+    }
+}
+
+// {
+//     "response": {
+//         "datetime": 20190328034119,
+//         "operatorid": 1,
+//         "ftpuserid": "anonymous",
+//         "storetype": "PTS",
+//         "name": "System USER",
+//         "store": 515,
+//         "ftppassword": "ftpsecure1",
+//         "retcode": 1101,
+//         "applications": "ABCDEFIJKLLMM"
+//     }
+// }
+
