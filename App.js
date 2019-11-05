@@ -54,7 +54,7 @@ export default class App extends Component {
     const version = this.deviceInformationService.getVersion();
     const build = this.deviceInformationService.getBuildNumber().toString();
     const appVersion = `${version}_${build}`;
-    //appData.setApplicationVersion(appVersion);
+    // appData.setApplicationVersion(appVersion);
     this.appVersion = appVersion;
   }
 
